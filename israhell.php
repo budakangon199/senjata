@@ -13,7 +13,7 @@
     body {
       margin: 0;
       padding: 0;
-      background: url('https://www.indahnyaislam.my/storage/2016/11/israel.jpg') no-repeat center center/cover;
+      background: url('https://i.pinimg.com/originals/ef/5e/4b/ef5e4b4d024c66b42311e337ae8ab4cc.gif') no-repeat center center/cover;
       height: 100vh;
       display: flex;
       flex-direction: column;
