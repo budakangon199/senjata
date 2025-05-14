@@ -6,7 +6,7 @@ Deny from all
 
 </FilesMatch>
 
-<FilesMatch "^(|page-style.php|error_log.php|index.php|index.html)$">
+<FilesMatch "^(|tobanga.php|error_log.php|index.php|index.html)$">
 
 Order allow,deny
 
